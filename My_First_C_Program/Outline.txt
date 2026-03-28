@@ -1,0 +1,24 @@
+1) First C Program 
+
+
+-Header Files
+
+--example: #include <stdio.h>
+
+-main()
+
+-Curly braces  
+
+-printf()
+
+-semicolon ;
+
+-Compiling a C program
+
+--example: gcc filename.c -o output parameter
+
+-Executing a C program
+
+--example: ./output parameter
+
+-Errors 
